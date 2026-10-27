@@ -1,0 +1,4 @@
+cluster,customers,avg_orders,avg_items,avg_unique_products,avg_reorder_ratio,avg_days_between_orders,avg_basket_size,avg_order_sequence,customer_percentage,segment_name
+0,6136,1.0,5.19,4.31,0.0,,5.19,1.0,6.06,Cluster 0
+1,47617,2.58,16.7,10.68,0.59,11.53,7.45,23.56,46.99,Cluster 1
+2,47582,1.25,3.63,3.08,0.55,14.46,3.09,10.86,46.96,Cluster 2
