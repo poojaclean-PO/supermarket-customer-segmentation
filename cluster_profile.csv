@@ -1,4 +1,0 @@
-cluster,customers,avg_orders,avg_items,avg_unique_products,avg_reorder_ratio,avg_days_between_orders,avg_basket_size,avg_order_sequence,customer_percentage,segment_name
-0,47543,1.25,3.63,3.07,0.55,14.46,3.08,10.87,46.92,"Lower-frequency, smaller-basket customers"
-1,47656,2.57,16.7,10.67,0.59,11.69,7.45,23.54,47.03,"Larger-basket, repeat-active customers"
-2,6136,1.0,5.19,4.31,0.0,,5.19,1.0,6.06,First-order customers
